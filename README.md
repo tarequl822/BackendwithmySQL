@@ -2,18 +2,17 @@
 1. Node.js Packages (Install use npm)
    After installing Node.js, create a project and install the following dependencies:
    
-      npm install express mysql2 dotenv
+   - npm install express mysql2 dotenv
 
 3. Security & Optimization
-   
-      npm install cors helmet compression
+   - npm install cors helmet compression
 
 5. Development Tools
-   
-     npm install --save-dev nodemon eslint
+   - npm install --save-dev nodemon eslint
 7.  install cookie-parser
-
-       npm install cookie-parser
+   - npm install cookie-parser
+8. install cloudinary
+  - npm i cloudinary
 
  
 
