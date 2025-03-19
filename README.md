@@ -1,5 +1,5 @@
 # download dependencies
-1. Node.js Packages (Install via npm)
+1. Node.js Packages (Install use npm)
    After installing Node.js, create a project and install the following dependencies:
    
       npm install express mysql2 dotenv
