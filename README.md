@@ -13,6 +13,8 @@
     - npm install cookie-parser
 8. install cloudinary
    - npm i cloudinary
+9. install bcrypt , jasnwebtoken
+    - npm i bcrypt jsonwebtoken
 
 # .env file
  1. CORS_ORIGIN=*
